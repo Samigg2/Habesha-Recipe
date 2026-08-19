@@ -65,7 +65,7 @@ git remote add origin <your-repo-url>   # first time only
 git push -u origin main
 ```
 
-## 5. How to present it (Day 25 / group demo)
+<!-- ## 5. How to present it (Day 25 / group demo)
 
 Keep it to ~3 minutes:
 
@@ -123,4 +123,4 @@ Keep it to ~3 minutes:
 - No serving-size scaling on ingredient amounts (Addis Eats' cart has a
   live total because money adds up; recipes don't need that kind of math,
   but scaling ingredients by servings would be a nice Day 24 stretch goal).
-- No automated tests — add if your course wants them.
+- No automated tests — add if your course wants them. -->
